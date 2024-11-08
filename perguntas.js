@@ -5,15 +5,15 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'Geografia de Futebol',
+    'De que país é o time do Ferencvárosi?',
+    'Esse time é da Hungria.'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'Titulos.',
+    'Quantos títulos ao todoo o real madrid tem de champions ate o ano de 2024?',
+    'Tem 15 títulos de Champions'
 )
 
 criaCartao(
